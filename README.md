@@ -166,31 +166,31 @@ blah
 
 <h2 name="DeadBuried">Dead & Buried</h2>
 
-blah
+* http://www.roadtovr.com/hands-on-dead-buried-action-packed-multiplayer-could-be-the-killer-app-oculus-touch-needs/
 
 <h2 name="FantasticContraption">Fantastic Contraption</h2>
 
-blah
+* http://www.roadtovr.com/fantastic-contraption-htc-vive-hands-on-pax-prime-2015/
 
 <h2 name="IExpectYoutoDie">I Expect You to Die</h2>
 
-blah
+* http://www.roadtovr.com/jesse-schell-vr-design-principles-expect-die/
 
 <h2 name="JobSimulator">Job Simulator</h2>
 
-blah
+* http://www.roadtovr.com/job-simulator-is-exactly-as-awesome-as-this-new-trailer-makes-it-look/
 
 <h2 name="RockBandVR">Rock Band VR</h2>
 
-blah
+* http://www.roadtovr.com/rockband-vr-announced-by-oculus-and-harmonix-breaking/
 
 <h2 name="VRSports">VR Sports</h2>
 
-blah
+* http://www.roadtovr.com/preview-vr-sports-challenge-turns-mvp-always-meant/
 
 <h2 name="DamagedCore">Damaged Core</h2>
 
-blah
+* http://www.roadtovr.com/preview-damaged-core-takes-teleportation-new-extreme-fast-paced-fps/
 
 <h2 name="DragonFront">Dragon Front</h2>
 
@@ -198,7 +198,7 @@ blah
 
 <h2 name="EagleFlight">Eagle Flight</h2>
 
-blah
+* http://www.roadtovr.com/preview-eagle-flight-kinetic-thrill-ride-surprisingly-doesnt-make-want-vomit/
 
 <h2 name="EdgeofNowhere">Edge of Nowhere</h2>
 
