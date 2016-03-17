@@ -33,6 +33,16 @@ Title | Launch Date | Price | Oculus Rift | HTC Vive
 <a href="#VRTennisOnline">VR Tennis Online</a> | March 28 | $24.99 | Yes | ???
 <a href="#PinballFX2VR">Pinball FX2 VR</a> | March 28 | $14.99 | Yes | ???
 <a href="#TheClimb">The Climb</a> | April | $49.99 | Yes | ???
+<a href="#DeadBuried">Dead & Buried</a> | TBA | TBA | Yes | ???
+<a href="#FantasticContraption">Fantastic Contraption</a> | TBA | TBA | Yes | ???
+<a href="#IExpectYoutoDie">I Expect You to Die</a> | TBA | TBA | Yes | ???
+<a href="#JobSimulator">Job Simulator</a> | TBA | TBA | Yes | ???
+<a href="#RockBandVR">Rock Band VR</a> | TBA | TBA | Yes | ???
+<a href="#VRSports">VR Sports</a> | TBA | TBA | Yes | ???
+<a href="#DamagedCore">Damaged Core</a> | TBA | TBA | Yes | ???
+<a href="#DragonFront">Dragon Front</a> | TBA | TBA | Yes | ???
+<a href="#EagleFlight">Eagle Flight</a> | TBA | TBA | Yes | ???
+<a href="#EdgeofNowhere">Edge of Nowhere</a> | TBA | TBA | Yes | ???
 
 <h2 name="ADR1FT">ADR1FT</h2>
 
@@ -151,5 +161,45 @@ blah
 blah
 
 <h2 name="TheClimb">The Climb</h2>
+
+blah
+
+<h2 name="DeadBuried">Dead & Buried</h2>
+
+blah
+
+<h2 name="FantasticContraption">Fantastic Contraption</h2>
+
+blah
+
+<h2 name="IExpectYoutoDie">I Expect You to Die</h2>
+
+blah
+
+<h2 name="JobSimulator">Job Simulator</h2>
+
+blah
+
+<h2 name="RockBandVR">Rock Band VR</h2>
+
+blah
+
+<h2 name="VRSports">VR Sports</h2>
+
+blah
+
+<h2 name="DamagedCore">Damaged Core</h2>
+
+blah
+
+<h2 name="DragonFront">Dragon Front</h2>
+
+blah
+
+<h2 name="EagleFlight">Eagle Flight</h2>
+
+blah
+
+<h2 name="EdgeofNowhere">Edge of Nowhere</h2>
 
 blah
