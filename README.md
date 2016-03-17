@@ -36,7 +36,7 @@ Title | Launch Date | Price | Oculus Rift | HTC Vive
 
 <h2 name="ADR1FT">ADR1FT</h2>
 
-blah
+* http://www.roadtovr.com/new-adr1ft-trailer-is-the-most-stunning-yet/
 
 <h2 name="AdventureTimeMagicMansHeadGames">Adventure Time: Magic Man’s Head Games</h2>
 
