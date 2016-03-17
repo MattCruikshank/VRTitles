@@ -40,7 +40,7 @@ Title | Launch Date | Price | Oculus Rift | HTC Vive
 
 <h2 name="AdventureTimeMagicMansHeadGames">Adventure Time: Magic Man’s Head Games</h2>
 
-blah
+* http://www.roadtovr.com/adventure-time-game-coming-soon-major-vr-headsets/
 
 <h2 name="AirMechCommand">AirMech: Command</h2>
 
@@ -56,19 +56,19 @@ blah
 
 <h2 name="ProjectCARS">Project CARS</h2>
 
-blah
+* http://www.roadtovr.com/project-cars-v7-0-patch-brings-more-oculus-rift-enhancements/
 
 <h2 name="Chronos">Chronos</h2>
 
-blah
+* http://www.roadtovr.com/preview-chronos-is-a-masterfully-directed-adventure-that-i-cant-wait-to-step-into/
 
 <h2 name="Darknet">Darknet</h2>
 
-blah
+* http://www.roadtovr.com/3-insights-new-gear-vr-developers-creator-darknet/
 
 <h2 name="DeadSecret">Dead Secret</h2>
 
-blah
+* http://www.roadtovr.com/review-dead-secret-one-early-great-successes-vr-thrillers/
 
 <h2 name="DefenseGrid2EnhancedVREdition">Defense Grid 2 Enhanced VR Edition</h2>
 
@@ -76,19 +76,19 @@ blah
 
 <h2 name="Dreadhalls">Dreadhalls</h2>
 
-blah
+* http://www.roadtovr.com/dreadhalls-demo-update-brings-oculus-runtime-v0-7-support/
 
 <h2 name="EliteDangerousDeluxeEdition">Elite Dangerous: Deluxe Edition</h2>
 
-blah
+* http://www.roadtovr.com/elite-dangerous-support-coming-oculus-rift-launch/
 
 <h2 name="Esper2">Esper 2</h2>
 
-blah
+* http://www.roadtovr.com/coatsink-softwares-tom-beardsmore-talks-esper-coming-oculus-rift/
 
 <h2 name="EVEValkyrieFoundersPack">EVE Valkyrie Founder’s Pack</h2>
 
-blah
+* http://www.roadtovr.com/review/preview-eve-valkyrie-is-the-first-must-have-vr-game/
 
 <h2 name="FlytoKUMA">Fly to KUMA</h2>
 
@@ -96,7 +96,7 @@ blah
 
 <h2 name="EVEGunjack">EVE Gunjack</h2>
 
-blah
+* http://www.roadtovr.com/review-eve-gunjack-ccp-games-samsung-gear-vr-turret-shooter/
 
 <h2 name="HeroboundSC">Herobound SC</h2>
 
@@ -104,11 +104,11 @@ blah
 
 <h2 name="KeepTalkingandNobodyExplodes">Keep Talking and Nobody Explodes</h2>
 
-blah
+* http://www.roadtovr.com/keep-talking-and-nobody-explodes-comes-to-steam-and-oculus-rift-or-not-in-october/
 
 <h2 name="LuckysTale">Lucky’s Tale</h2>
 
-blah
+* http://www.roadtovr.com/gdc-2015-hands-luckys-tale-updated-demo-playful-corp/
 
 <h2 name="OmegaAgent">Omega Agent</h2>
 
@@ -116,7 +116,7 @@ blah
 
 <h2 name="RadialG">Radial G</h2>
 
-blah
+* http://www.roadtovr.com/hands-radial-g-steam-early-access-demo-60fps-gameplay/
 
 <h2 name="Rooms">Rooms</h2>
 
@@ -124,7 +124,7 @@ blah
 
 <h2 name="ShufflepuckCantinaDeluxeVR">Shufflepuck Cantina Deluxe VR</h2>
 
-blah
+* http://www.roadtovr.com/shufflepuck-cantina-deluxe-oculus-rift-vr-demo-preview/
 
 <h2 name="SmashingtheBattle">Smashing the Battle</h2>
 
@@ -132,15 +132,15 @@ blah
 
 <h2 name="VanishingofEthanCarter">Vanishing of Ethan Carter</h2>
 
-blah
+* http://www.roadtovr.com/the-vanishing-of-ethan-carter-redux-is-out-bringing-vr-support/
 
 <h2 name="Windlands">Windlands</h2>
 
-blah
+* http://www.roadtovr.com/windlands-now-available-steam-early-access/
 
 <h2 name="BlazeRush">BlazeRush</h2>
 
-blah
+* http://www.roadtovr.com/toybox-turbos-blazerush-tiny-racer-emerging-genre-vr/
 
 <h2 name="VRTennisOnline">VR Tennis Online</h2>
 
